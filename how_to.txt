@@ -1,0 +1,34 @@
+
+!!!!!!!!!!!!!!!!!!!!!!!!!!!!!  WAIT   !!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+Have you ran
+
+sudo chmod 777 *
+
+In this folder before????????
+
+Do that first if not
+
+
+
+-------------------------------------------------------------------------
+To clean the file, remove branding, fix link self-references and add our author tag (beautify.py):
+
+1. > python3 beautify.py
+
+
+
+-------------------------------------------------------------------------
+To get Ryan's changes:
+
+1. Make sure terminal is in correct directory, i.e SHBPRC/shbprc
+
+2. > ./pull.sh
+
+
+
+-------------------------------------------------------------------------
+To beautify and push your changes to https://master.d2dp9bhnhv7rir.amplifyapp.com/index.html:
+
+1. Make sure terminal is in correct directory, i.e SHBPRC/shbprc
+
+ 1. > ./commit.sh "<what you added>"
